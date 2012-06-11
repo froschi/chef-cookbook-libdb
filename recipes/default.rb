@@ -7,7 +7,7 @@ when "lucid"
   /
 when "precise"
   packages |= %w/
-    libdb4.8
+    libdb5.1
   /
 end
 
